@@ -2,10 +2,10 @@
 
 
 ### Biomedical Engineering Student
-- ![Duke][<img src="/Icons/Duke_icon.png" width="12px" />] Duke University Master of Engineering, BME (Present)
-- ![Mississippi State][<img src="/Icons/Miss_St_icon.png" width="12px" />] Mississippi State University Bachelor of Science, BME (2017-2021)
-- ![Neural Engineering][<img src="/Icons/Neural_engineering_icon.png" width="12px" />] Interested in developing neural devices and implants to combat motor dysfunction caused by neurological disorders
-- ![Coding][<img src="/Icons/Coding_icon.png" width="12px" />] Love to continue learning and developing new skills (including coding!)
+- ![Screenshot][/Icons/Duke_icon.png] Duke University Master of Engineering, BME (Present)
+- ![Screenshot][/Icons/Miss_St_icons.png] Mississippi State University Bachelor of Science, BME (2017-2021)
+- ![Screenshot][/Icons/Neural_engineering_icon.png] Interested in developing neural devices and implants to combat motor dysfunction caused by neurological disorders
+- ![Screenshot][/Icons/Coding_icon.png] Love to continue learning and developing new skills (including coding!)
 
 
 ### Profile Repositories
@@ -19,9 +19,9 @@
 ### Coding/Software Experience:
 
 ![<img align="left" alt="Python" width="45px" src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" />]
-![<img align="left" alt="MATLAB" width="45px" src="https://braden2447.github.io/braden2447/Icons/MATLAB_icon.jpg" />]
-![<img align="left" alt="LabVIEW" width="45px" src="https://braden2447.github.io/braden2447/Icons/LabVIEW_icon.jpg" />]
-![<img align="left" alt="Fusion 360" width="45px" src="https://braden2447.github.io/braden2447/Icons/Fusion360_icon.jpg" />]
+![<img align="left" alt="MATLAB" width="45px" src="/Icons/MATLAB_icon.jpg" />]
+![<img align="left" alt="LabVIEW" width="45px" src="/Icons/LabVIEW_icon.jpg" />]
+![<img align="left" alt="Fusion 360" width="45px" src="/Icons/Fusion360_icon.jpg" />]
 
 
 ### Check out my LinkedIn profile for more about my academic and professional experiences:
