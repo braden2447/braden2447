@@ -27,6 +27,9 @@ Love to continue learning and developing new skills (including coding!)
     * [CPAP Analysis][CPAP_repo]
     * [HR Sentinel Server][HR_server_repo]
     * [Full-Stack Patient Monitoring System][Final_repo]
+	
+- BME 580: Introduction to Biomedical Data Science
+	* [Pediatric Sepsis Prediction Using EHR Data][BME-580-Project]
 
 <br />
 
@@ -34,6 +37,7 @@ Love to continue learning and developing new skills (including coding!)
 
 <img align="left" alt="Python" width="45px" src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" />
 <img align="left" alt="MATLAB" width="45px" src="/Icons/MATLAB_icon.jpg" />
+<img align="left" alt="R" width="45px" src="/Icons/R_icon.png" />
 <img align="left" alt="LabVIEW" width="45px" src="/Icons/LabVIEW_icon.jpg" />
 <img align="left" alt="Fusion 360" width="45px" src="/Icons/Fusion360_icon.jpg" />
 
@@ -50,3 +54,4 @@ Love to continue learning and developing new skills (including coding!)
 [HR_server_repo]: https://github.com/braden2447/HR_Sentinel_Server
 [Final_repo]: https://github.com/braden2447/BME547_Final_Project
 [LinkedIn]: https://www.linkedin.com/in/braden-garrison
+[BME-580-Project]: https://github.com/braden2447/BME-580-Project
