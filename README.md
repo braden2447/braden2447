@@ -22,12 +22,14 @@ Love to continue learning and developing new skills (including coding!)
 <br />
 
 ### Profile Repositories:
+
 - BME 547: Medical Software Design
     * [BMI Calculator][BMI_repo]
     * [CPAP Analysis][CPAP_repo]
     * [HR Sentinel Server][HR_server_repo]
     * [Full-Stack Patient Monitoring System][Final_repo]
 	
+
 - BME 580: Introduction to Biomedical Data Science
 	* [Pediatric Sepsis Prediction Using EHR Data][BME-580-Project]
 
