@@ -28,11 +28,15 @@ Love to continue learning and developing new skills (including coding!)
     * [CPAP Analysis][CPAP_repo]
     * [HR Sentinel Server][HR_server_repo]
     * [Full-Stack Patient Monitoring System][Final_repo]
-	
+
+
+- BME 515: Neural Prosthetic Systems
+	* [Cefaly Dual NEURON Model and Device Analysis][BME-515-Project]
+
 
 - BME 580: Introduction to Biomedical Data Science
 	* [Pediatric Sepsis Prediction Using EHR Data][BME-580-Project]
-
+	
 <br />
 
 ### Coding/Software Experience:
