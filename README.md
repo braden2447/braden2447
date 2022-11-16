@@ -5,7 +5,7 @@
 
 <img align="left" alt="Duke" src="/Icons/Duke_icon.png" />
 
-Duke University Master of Engineering, BME (Present)
+Duke University Master of Engineering, BME (2021-2022)
 
 <img align="left" alt="Mississippi State" width="30px" src="/Icons/Miss_St_icon.png" /> 
 
